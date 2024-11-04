@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>LoginWhitelist</name>
+        <type>plugin</type>
+        <creationDate>2024-11-01</creationDate>
+        <lastUpdate>2024-11-01</lastUpdate>
+        <author>r4dius</author>
+        <authorEmail>r4dius@gmail.com</authorEmail>
+        <authorUrl>https://github.com/r4dius/</authorUrl>
+        <version>1.0.0</version>
+        <license>GNU General Public License version 2 or later</license>
+        <description><![CDATA[Limit login access to IP whitelist]]></description>
+    </metadata>
+    
+    <compatibility>
+        <version>6.0</version>
+    </compatibility>
+</config>
